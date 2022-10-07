@@ -1,0 +1,9 @@
+ng new myapp --no-strict --> to create a angular app
+
+ng serve --> to run the code
+
+npm install --save bootstrap@4 --> to install bootstarp into the angular
+
+ng g c products/product --> to create a component within another component
+
+ng g c adminpage --skipTests true --> to create component without spec.ts file
